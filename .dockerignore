@@ -1,0 +1,11 @@
+.git
+.gitignore
+node_modules
+npm-debug.log
+vendor
+.env
+.env.backup
+docker-compose.override.yml
+.idea
+.vscode
+storage/logs/*.log
